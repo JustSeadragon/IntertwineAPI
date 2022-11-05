@@ -1,5 +1,5 @@
 # IntertwineAPI
-Intertwine API will allow you to create programmable apps with ease.
+Intertwine API will allow you to create programmable apps with ease. Without all the hard programming!
 
 ![codebgv2](https://user-images.githubusercontent.com/82759997/200135060-a638e9e3-b10e-4e51-b72c-ed6d43a7f0b2.png)
 
