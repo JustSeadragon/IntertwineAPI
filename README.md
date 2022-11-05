@@ -1,5 +1,5 @@
-# CoreAPI
-Core API will allow you to create programmable apps with ease.
+# IntertwineAPI
+Intertwine API will allow you to create programmable apps with ease.
 
 
 # How To Use
